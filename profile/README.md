@@ -2,7 +2,6 @@
 
 Hi there and welcome to my organization 👋 
 
----
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
@@ -21,14 +20,14 @@ Here you’ll find repositories from my cybersecurity studies:
 - 📊 GRC frameworks and documentation (Under construction) 
 - 🛠️ IoT/OT security demos (Under construction)  
 
----
+
  
- Exams, projects and labs:
+ ## Exams and projects (Under construction..)
 
 - [Kreativ Webprosjekt](https://github.com/Irmabee/Kreativ-Webprosjekt-Eksamen)
 - [Agile project](https://github.com/Irmabee/Volverine)
  
- Under construction..
+ 
 
 ---
 
