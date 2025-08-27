@@ -23,7 +23,10 @@ Here you’ll find repositories from my cybersecurity studies:
 
 ---
  
- Exams, projects and labs
+ Exams, projects and labs:
+
+- [Kreativ Webprosjekt](https://github.com/Irmabee/Kreativ-Webprosjekt-Eksamen)
+- [Agile project](https://github.com/Irmabee/Volverine)
  
  Under construction..
 
