@@ -25,7 +25,7 @@ Here you’ll find repositories from my cybersecurity studies:
  ## Exams and projects (Under construction..)
 
 - [Kreativ Webprosjekt](https://github.com/Irmabee-Labs/Kreativ-Webprosjekt-Eksamen)
-- [Agile team project](https://github.com/Irmabee-Labs/Volverine) Created a graphical interface for Volatility memory forensics tool.
+- [Volatility-Agile team project](https://github.com/Irmabee-Labs/Volverine) Created a graphical interface for Volatility memory forensics tool.
  
  
 
