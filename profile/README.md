@@ -23,7 +23,9 @@ Here you’ll find repositories from my cybersecurity studies:
 
  
  ## Exams and projects (Under construction..)
-
+ 
+- [bacula_backup_server_lab] (...)
+- [docker_swarm_loadbalancer_lab](...) 
 - [Kreativ Webprosjekt](https://github.com/Irmabee-Labs/Kreativ-Webprosjekt-Eksamen)
 - [Volatility-Agile team project](https://github.com/Irmabee-Labs/Volverine) Created a graphical interface for Volatility memory forensics tool.
  
