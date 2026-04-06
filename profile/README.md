@@ -13,7 +13,7 @@ This organization was created for educational purposes. It contains exams and pr
 
 ---
 ⚙️ Infrastructure Operations and Services:
-  - [ansible_dynamic_web_deployment](https://github.com/Irmabee-Labs/ansible_dynamic_web_deployment_lab/blob/main/README.md)
+  - [ansible_dynamic_web_deployment](https://github.com/Irmabee-Labs/ansible_dynamic_web_deployment_lab/tree/main)
   - [bacula_backup_server_lab](coming soon)  
 
 🌐 Cloud & DevOps exercises
