@@ -16,20 +16,18 @@ This organization was created for educational purposes. It contains exams and pr
   - [ansible_dynamic_web_deployment](https://github.com/Irmabee-Labs/ansible_dynamic_web_deployment_lab) 
   - [bacula_backup_server_lab](coming soon)  
 
-🌐 Cloud & DevOps exercises
+🌐 Cloud & DevOps exercises:
   - [docker_swarm_loadbalancer_lab](coming soon) 
     
-📊 GRC frameworks and documentation
+📊 GRC frameworks and documentation:
   - GRC1110_Eksamen_Høst_2024_pdf(Coming soon)   
 
-🛠️ IoT/OT security demos (Coming soon)  
-
-🔐 Ethical Hacking labs (Coming soon) 
-
-- [Kreativ Webprosjekt](https://github.com/Irmabee-Labs/Kreativ-Webprosjekt-Eksamen)
+ Cybersecurity: 
 - [Volatility-Agile team project](https://github.com/Irmabee-Labs/Volverine) Created a graphical interface for Volatility memory forensics tool.
  
- 
+🛠️ IoT/OT security (Coming soon)  
+
+🔐 Ethical Hacking labs (Coming soon) 
 
 
 
