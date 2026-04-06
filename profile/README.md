@@ -13,17 +13,20 @@ This organization was created for educational purposes. It contains exams and pr
 
 ---
 
--  Infrastructure and Operations:
-- [ansible_dynamic_web_deployment](https://github.com/Irmabee-Labs/ansible_dynamic_web_deployment_lab/blob/main/README.md)
-- [bacula_backup_server_lab](...)
-
-- 🔐 Ethical Hacking labs (Under construction) 
+- ⚙️ Infrastructure Operations and Services:
+  - [ansible_dynamic_web_deployment](https://github.com/Irmabee-Labs/ansible_dynamic_web_deployment_lab/blob/main/README.md)
+  - [bacula_backup_server_lab](...)
 
 - 🌐 Cloud & DevOps exercises (Under construction)
   - [docker_swarm_loadbalancer_lab](...)
+  - 
    
-- 📊 GRC frameworks and documentation (Under construction) 
+- 📊 GRC frameworks and documentation (Under construction)
+  - GRC1110_Eksamen_Høst_2024_pdf  
+
 -🛠️ IoT/OT security demos (Under construction)  
+
+- 🔐 Ethical Hacking labs (Under construction) 
 
 - [Kreativ Webprosjekt](https://github.com/Irmabee-Labs/Kreativ-Webprosjekt-Eksamen)
 - [Volatility-Agile team project](https://github.com/Irmabee-Labs/Volverine) Created a graphical interface for Volatility memory forensics tool.
