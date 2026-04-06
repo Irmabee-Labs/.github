@@ -9,25 +9,22 @@ Hi there and welcome to my organization 👋
 
 ---
 
-This organization was created for educational purposes. It contains exams and project requirements from my Bachelor in IT-Cybersecurity.   
+This organization was created for educational purposes. It contains exams and project requirements from my Bachelor in IT-Cybersecurity, and Cloud Based Services and Operations courses from OsloMet.   
 
 ---
 
-Here you’ll find repositories from my cybersecurity studies:  
+-  Infrastructure and Operations:
+- [ansible_dynamic_web_deployment](...)
+- [bacula_backup_server_lab](...)
 
 - 🔐 Ethical Hacking labs (Under construction) 
-- 🌐 Cloud & DevOps exercises (Under construction) 
+
+- 🌐 Cloud & DevOps exercises (Under construction)
+  - [docker_swarm_loadbalancer_lab](...)
+   
 - 📊 GRC frameworks and documentation (Under construction) 
-- 🛠️ IoT/OT security demos (Under construction)  
+-🛠️ IoT/OT security demos (Under construction)  
 
-
- 
- ## Exams and projects (Under construction..)
-
-- [ansible_dynamic_web_deployment](...)
-- 
-- [bacula_backup_server_lab](...)
-- [docker_swarm_loadbalancer_lab](...) 
 - [Kreativ Webprosjekt](https://github.com/Irmabee-Labs/Kreativ-Webprosjekt-Eksamen)
 - [Volatility-Agile team project](https://github.com/Irmabee-Labs/Volverine) Created a graphical interface for Volatility memory forensics tool.
  
