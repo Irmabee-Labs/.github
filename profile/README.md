@@ -20,9 +20,12 @@ This organization was created for educational purposes. It contains exams and pr
   - [docker_swarm_loadbalancer_lab](coming soon) 
     
 📊 GRC frameworks and documentation:
-  - GRC1110_Eksamen_Høst_2024_pdf(Coming soon)   
+  - GRC1110_Eksamen_Høst_2024_pdf(Coming soon)
 
- Cybersecurity: 
+🐍 Python
+- [study_reminder](https://github.com/Irmabee/study_reminders) 
+
+Cybersecurity: 
 - [Volatility-Agile team project](https://github.com/Irmabee-Labs/Volverine) Created a graphical interface for Volatility memory forensics tool.
 
 Kreativ Web prosjekt Eksamen:
