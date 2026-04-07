@@ -12,17 +12,17 @@ Hi there and welcome to my organization 👋
 This organization was created for educational purposes. It contains exams and project requirements from my Bachelor in IT-Cybersecurity, and Cloud Based Services and Operations courses from OsloMet.   
 
 ---
-⚙️ Infrastructure Operations and Services:
+⚙️ Infrastructure Operations and Services Lab:
   - [ansible_dynamic_web_deployment](https://github.com/Irmabee-Labs/ansible_dynamic_web_deployment_lab) 
   - [bacula_backup_server_lab](coming soon)  
 
-🌐 Cloud & DevOps exercises:
+🌐 Cloud & DevOps Lab:
   - [docker_swarm_loadbalancer_lab](coming soon) 
     
 📊 GRC:
   - [GRC1110_Eksamen_Høst_2024](https://github.com/Irmabee/GRC1110_Eksamen_H-st_2024)
 
-🐍 Python
+🐍 Python:
 - [study_reminder](https://github.com/Irmabee/study_reminders) 
 
 Cybersecurity: 
