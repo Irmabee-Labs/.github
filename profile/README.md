@@ -20,7 +20,7 @@ This organization was created for educational purposes. It contains exams and pr
   - [docker_swarm_loadbalancer_lab](coming soon) 
     
 📊 GRC:
-  - [GRC1110_Eksamen_Høst_2024_pdf](https://github.com/Irmabee/GRC1110_Eksamen_H-st_2024)
+  - [GRC1110_Eksamen_Høst_2024](https://github.com/Irmabee/GRC1110_Eksamen_H-st_2024)
 
 🐍 Python
 - [study_reminder](https://github.com/Irmabee/study_reminders) 
