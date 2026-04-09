@@ -21,6 +21,7 @@ This organization was created for educational purposes. It contains exams and pr
     
 📊 GRC:
   - [GRC1110_Eksamen_Høst_2024](https://github.com/Irmabee/GRC1110_Eksamen_H-st_2024)
+  - [GRC110_arbeidskrav_24](https://github.com/Irmabee/GRC_arbeidskrav_24) 
 
 🐍 Python:
 - [study_reminder](https://github.com/Irmabee/study_reminders) 
